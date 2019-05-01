@@ -1,0 +1,23 @@
+{
+  "name": "cool-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpileOnly ./server/server.ts",
+    "build": "tslint&&tsc&&node ./build/server.js",
+    "tslint": "tslint -c tslint.json 'server/**/*.ts'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.16.1",
+    "express": "^4.16.4",
+    "typescript": "^3.4.5",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.32"
+  }
+}
