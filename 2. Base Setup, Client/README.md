@@ -6,4 +6,4 @@
 5. Client Side (Coming soon!)
 
 # What you will accomplish after this part
-You will know the basic of how to use NodeJS and Typescript to build a server. You will learn the basic use of Express, TSLint, Winston and ts-node-dev, which can make you a simple server running on your local computer.
+You will be able to present a html webpage with bundled scripts, css file and images. With the ability to debug and build the files. With simple and easy to extend file strcuture. Also, this can be a very handy typescript boilerplate!
