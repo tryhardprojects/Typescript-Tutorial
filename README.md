@@ -1,7 +1,8 @@
 Let's learn how to build a basic back to front project!
 
 # A walkthrough of a website.
-This is going to be a tutorial for those who want to build a website from back all the way to front, it's challenging, but not impossible. This is the first part of our journey!
+This is going to be a tutorial for those who want to build a website from back all the way to front, it's challenging, but not impossible. 
+
 # Index
 1. [Base Setup, Server](https://www.tryhardprojects.com/blog/Website-Part1-2019-05-01/)
 2. [Base Setup, Client](https://www.tryhardprojects.com/blog/Website-part2-2019-05-06/)
